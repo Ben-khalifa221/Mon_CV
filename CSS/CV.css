@@ -106,6 +106,7 @@ body {
 .niveau {
     height: 100%;
     border-radius: 10px;
+    transition: width 1.5s ease-out; 
 }
 
 /* Couleurs fixes pour chaque langue */
